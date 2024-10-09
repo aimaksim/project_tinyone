@@ -1,4 +1,4 @@
 # project_tinyone
 Project Tinyone
 
-Preview : 
+Preview : https://aimaksim.github.io/project_tinyone/
